@@ -1,0 +1,76 @@
+#contact iframe {
+    width: 100%;
+}
+.contact_1 h3 {
+    display: inline;
+}
+.contact_1 a {
+    text-shadow: none;
+}
+ 
+input {
+    background: grey
+}
+.travel_mainDiv {
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+    border: 1px solid #4d477d;
+}
+.travel_mainDiv img {
+    width: 100%;
+}
+.travel_mainDiv hr {
+    width: 230px;
+}
+.travel_mainDiv h5,.travel_mainDiv p {
+    margin-left: 20px;
+}
+.movie_head i {
+    float: right;
+}
+.movie_text span {
+    color: #f2e18d;
+}
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.hobbies_li {
+    margin-top: 13px;
+}
+.hobbies_li h4 {
+    padding: 8px;
+    border-bottom: 1px solid white;
+}
+.hobbies_li img {
+    border-radius: 25px;
+}
+.hobbies_li p {
+    margin-top: 10px;
+}
+.book hr {
+    margin-bottom: 10px;
+}
+.img_modal {
+    display: inline-block;
+}
+.p_modal {
+    margin-top: 10px;
+}
+.header-entrepreneur {
+    line-height: 2;
+}
+.book {
+    cursor: pointer;
+}
+.modal-content {
+    margin-top: 10px;
+}
+.modal-body {
+    text-align: center;
+}
